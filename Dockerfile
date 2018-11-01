@@ -36,7 +36,7 @@ ENV HOME $UHOME
 
 # Add files.
 #ADD home.tar $UHOME
-ADD csh.cshrc /etc/csh.cshrc
+#ADD csh.cshrc /etc/csh.cshrc
 
 
 USER $UNAME
